@@ -14,7 +14,7 @@ html {
 body {
   font-family: "Press Start 2P", sans-serif;
   color: #eee;
-  background-color: #222;
+  background-color: rgb(85, 34, 34);
   /* background-color: #60b347; */
 }
 
@@ -58,7 +58,7 @@ h1 {
 
 .number {
   background: #eee;
-  color: #333;
+  color: rgb(46, 40, 80);
   font-size: 6rem;
   width: 15rem;
   padding: 3rem 0rem;
